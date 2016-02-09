@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "bibliothecaclas31lemagoog_0528.png"; bbox 0 0 981 1406; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 428 511 590 536">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 428 511 590 536">
+     <span class='ocr_line' id='line_1_1' title="bbox 428 511 590 536; baseline -0.031 -3"><span class='ocrx_word' id='word_1_1' title='bbox 428 514 489 536; x_wconf 46' lang='lat' dir='ltr'>[ennox</span> <span class='ocrx_word' id='word_1_2' title='bbox 499 511 547 532; x_wconf 64' lang='lat' dir='ltr'>{111³ss</span> <span class='ocrx_word' id='word_1_3' title='bbox 551 513 590 529; x_wconf 72' lang='lat' dir='ltr'>ARY</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 435 538 596 741">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 435 538 596 741">
+     <span class='ocr_line' id='line_1_2' title="bbox 435 538 596 741; baseline 0 665"><span class='ocrx_word' id='word_1_4' title='bbox 435 538 596 741; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 429 760 608 802">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 429 760 608 802">
+     <span class='ocr_line' id='line_1_3' title="bbox 429 760 608 783; baseline -0.034 -6"><span class='ocrx_word' id='word_1_5' title='bbox 429 762 509 783; x_wconf 51' lang='lat' dir='ltr'><strong>unumst</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 516 760 608 775; x_wconf 61' lang='lat' dir='ltr'>culmum..</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 443 782 593 802; baseline -0.033 -2"><span class='ocrx_word' id='word_1_7' title='bbox 443 785 529 802; x_wconf 56' lang='lat' dir='ltr'>ruram-r.»</span> <span class='ocrx_word' id='word_1_8' title='bbox 533 785 549 797; x_wconf 70' lang='grc' dir='ltr'>ι.-</span> <span class='ocrx_word' id='word_1_9' title='bbox 553 782 593 796; x_wconf 68' lang='lat'>1³⁵³.</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
